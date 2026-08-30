@@ -189,3 +189,6 @@ Tu carpeta/
 - La interfaz de chat de llamafile corre en `http://127.0.0.1:8080`
 - Al cambiar de modelo se cierra automáticamente el anterior
 - La carpeta `Models` se crea sola si no existe
+
+
+<img width="569" height="520" alt="1" src="https://github.com/user-attachments/assets/d88fa294-68fe-41c0-8c8a-f4c48899ed25" />
